@@ -1,0 +1,38 @@
+Major Classes:
+	
+	GetScript
+		Script Info
+			firstName:		String
+			lastName:		String
+			mInitial:		char
+			drug:			String
+			nde:			int
+			rxNum:			int
+			expDate:		Date + 180
+			warning:		String
+			discription:	String
+			refill:			char
+			saftyCap:		char
+	GetBotInfo
+	
+	RobotInfoGUI
+	SaftyCapPopup
+	ScriptVerify
+	GUIs
+		- popup menu
+		- menu bar
+		- tabbed windows
+		- 
+		StatusGUI
+			- fill screen
+			- 
+			ToBeFilled
+				top panel
+			AlreadyFilled
+				center panel
+			DrugLevels
+				bottom panel
+	
+	Main
+	
+	
